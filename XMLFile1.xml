@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements>
+<Ad>
+<ImageUrl>D:\insurancenew\images\insurance4.jpg
+</ImageUrl>
+<Impressions>1</Impressions>
+<AlternateText>first image</AlternateText>
+</Ad>
+<Ad>
+<ImageUrl>D:\insurancenew\images\insurance8.jpg
+</ImageUrl>
+<Impressions>1</Impressions>
+<AlternateText>second image</AlternateText>
+</Ad>
+<Ad>
+<ImageUrl>D:\insurancenew\images\insurance10.jpg
+</ImageUrl>
+<Impressions>1</Impressions>
+<AlternateText>third image</AlternateText>
+</Ad>
+<Ad>
+<ImageUrl>D:\insurancenew\images\images/MF0419.JPG
+</ImageUrl>
+<Impressions>1</Impressions>
+<AlternateText>forth image</AlternateText>
+</Ad>
+
+</Advertisements>
